@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Çayan.
-- 👀 I’m interested in back end technologies like php and javascript,spring and mobile technologies like flutter.
+- 👀 I’m interested in back end technologies like spring, php, js and mobile technologies like flutter and frontend technologies like react.
 
 <!---
 cayanayy/cayanayy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
