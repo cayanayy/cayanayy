@@ -1,4 +1,4 @@
-👋 Hi, I’m Çayan and I describe myself as Junior Backend Developer. <a target="_blank" href="https://www.linkedin.com/in/cayanayy"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> <br>
+👋 Hi, I’m Çayan and I describe myself as Junior Backend Developer. <br><a target="_blank" href="https://www.linkedin.com/in/cayanayy"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /><br>
   <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" />
   <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
